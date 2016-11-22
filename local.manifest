@@ -1,0 +1,17 @@
+CACHE MANIFEST
+
+CACHE:
+home.html
+product.html
+//code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css
+//code.jquery.com/jquery-1.11.1.min.js
+//code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js
+1.png
+2.png
+3.png
+4.png
+5.png
+
+FALLBACK:
+location.html sorry.html
+contact.html sorry.html
