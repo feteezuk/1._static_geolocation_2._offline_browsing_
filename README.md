@@ -1,0 +1,2 @@
+# 1._static_geolocation_2._offline_browsing_
+1._static_geolocation_2._offline_browsing_
